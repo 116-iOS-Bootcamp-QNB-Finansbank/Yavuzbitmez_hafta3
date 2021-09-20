@@ -6,3 +6,9 @@
 //
 
 import Foundation
+
+
+struct News {
+    let image:String?
+    let title:String?
+}
